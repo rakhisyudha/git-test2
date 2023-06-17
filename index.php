@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hello World</h1>
-    <p>Lorem ipsum dolor sit.</p>
+    <p>Lorem ipsum dolor sitt.</p>
 </body>
 </html>
